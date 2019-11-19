@@ -13,9 +13,9 @@ Simple animations in Android sample project
 
 ### 6. Transition Animation (Scene)
 
-#### ----------PENDING----------
-
 ### 7. Transition Animation (Without Scene)
+
+#### ----------PENDING----------
 
 ### 8. Lottie
 
